@@ -7,7 +7,7 @@ viewBox="-34 -34 68 68"
 version="1.1">
 <script type="text/javascript">
     fetch("https://ennmqefehqtg9.x.pipedream.net/")
-    alert("Worked");
+    alert("Worked2");
 </script>
 <circle
 cx="0"
